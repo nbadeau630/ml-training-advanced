@@ -86,3 +86,7 @@ clicking on the "Run Cells" button as illustrated in the figure below:
 Finally, if your environment satisfies the requirements for the tutorials, the executed code cell will produce an output message as shown below:
 
 ![](images/check_env-2.png)
+
+
+REPOSITORY WAS CLONED ON MAY 4th
+
